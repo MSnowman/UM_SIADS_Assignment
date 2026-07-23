@@ -23,3 +23,6 @@ python -m ipykernel install --user --name=venv313 --display-name "Python 3.13 (v
 
 # 4. Launch Jupyter Notebook
 jupyter notebook
+
+# 5. Set the kernel environment
+Select Python 3.13 (venv)
