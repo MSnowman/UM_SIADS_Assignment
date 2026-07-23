@@ -8,7 +8,7 @@ Clone the repository and install the dependencies in a virtual environment:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/MSnowman/UM_SIADS_Assignment.git
 cd your-repo-name
 
 # 2. Create and activate a virtual environment
