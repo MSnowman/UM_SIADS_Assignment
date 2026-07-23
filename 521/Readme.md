@@ -26,3 +26,6 @@ jupyter notebook
 
 # 5. Set the kernel environment
 Select Python 3.13 (venv)
+
+# 6 Run the Notebook
+Run the notebook and the Dashboard will open locally at the end
